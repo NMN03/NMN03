@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on web development projects.<br>🌱 I’m currently learning Node JS.<br>⚡ Fun fact : My name is a palindrome!!
+👯 I’m looking to collaborate on web development projects.<br>🌱 I’m currently learning Node JS.<br>⚡ Fun fact : My name is a palindrome!!
 
 
 ## 🌐 Socials:
